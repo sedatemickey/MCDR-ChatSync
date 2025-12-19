@@ -9,7 +9,7 @@
 # 使用方法
 ## 一键安装（推荐）
 0. 在你的一堆mcdr服务器中任意选择一个作为主服务器，主服务器要一直处于启动状态才能使消息同步服务正常运行
-1. 启动mcdreforged，运行指令 `!!MCDR plugin install mg_events`
+1. 启动mcdreforged，运行指令 `!!MCDR plugin install chat_sync`
 2. 按照下方说明修改 `config\chat_sync\config.json` 中的配置
 3. 重启mcdreforged或重载插件
 
